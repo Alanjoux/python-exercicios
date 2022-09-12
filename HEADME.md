@@ -19,3 +19,14 @@ Iniciando importação de biblioteca.
 Exercício 16, quebra de número float para número int.
 
 Exercício 17, soma de catetos e hipotenusa.
+
+Atualização (dia) 12/09/2022 segunda-feira às 16:43
+
+Exercício 18, Resultado seno, cosseno e tangente com a biblioteca math.
+
+Exercício 19, Sortiando um item na lista com a biblioteca random.
+
+Exercício 20, Sortiando um item na lista, e colocando em ordem com a biblioteca random.
+
+Exercício 21, Tocando música com a biblioteca pygame. 
+
