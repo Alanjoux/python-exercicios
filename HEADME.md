@@ -28,5 +28,9 @@ Exercício 19, Sortiando um item na lista com a biblioteca random.
 
 Exercício 20, Sortiando um item na lista, e colocando em ordem com a biblioteca random.
 
-Exercício 21, Tocando música com a biblioteca pygame. 
+Exercício 21, Tocando música com a biblioteca pygame.
+
+Atualização (dia) 16/09/2022 sexta-feira às 15:48
+
+Exercício 22, Analisador de textos
 
