@@ -34,3 +34,6 @@ Atualização (dia) 16/09/2022 sexta-feira às 15:48
 
 Exercício 22, Analisador de textos
 
+Atualização (dia) 20/09/2022 Terça-feira às 14:58
+
+Exercício 22, Fatiando um número inteiro com cálculo matemático.
