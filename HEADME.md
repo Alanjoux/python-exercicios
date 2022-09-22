@@ -37,3 +37,13 @@ Exercício 22, Analisador de textos
 Atualização (dia) 20/09/2022 Terça-feira às 14:58
 
 Exercício 22, Fatiando um número inteiro com cálculo matemático.
+
+Atualização (dia) 22/09/2022 Quinta-feira às 16:21
+
+Exercício 23, o programa lê um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+
+Exercício 24, o programa lê o nome de uma cidade diz se ela começa ou não com o nome “SANTO”.
+
+Exercício 25, o programa lê o nome de uma pessoa e diz se ela tem “SILVA” no nome.
+
+Exercício 26, o programa lê uma frase pelo teclado e mostre quantas vezes aparece a letra “A”, em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
