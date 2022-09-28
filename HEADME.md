@@ -47,3 +47,7 @@ Exercício 24, o programa lê o nome de uma cidade diz se ela começa ou não co
 Exercício 25, o programa lê o nome de uma pessoa e diz se ela tem “SILVA” no nome.
 
 Exercício 26, o programa lê uma frase pelo teclado e mostre quantas vezes aparece a letra “A”, em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
+
+Atualização (dia) 28/09/2022 Quarta-feira às 13:45
+
+Exercício 27, o programa lê um nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
