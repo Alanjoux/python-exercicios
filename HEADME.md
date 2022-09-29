@@ -51,3 +51,13 @@ Exercício 26, o programa lê uma frase pelo teclado e mostre quantas vezes apar
 Atualização (dia) 28/09/2022 Quarta-feira às 13:45
 
 Exercício 27, o programa lê um nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
+
+Atualização (dia) 29/09/2022 Quinta-feira às 14:45
+
+Exercício 28, o programa faz o computador “pensar” em um número inteiro entre 0 e 5 e faz com que o usuário tente descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
+
+Exercício 29, o programa lê a velocidade de um carro. Se ele ultrapassar 80Km/h, mostra uma mensagem dizendo que ele foi multado.
+
+Exercício 30, o programa lê um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
+
+Exercício 31, o programa pergunte a distância de uma viagem em Km. Calcula o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas.
