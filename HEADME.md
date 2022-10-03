@@ -61,3 +61,9 @@ Exercício 29, o programa lê a velocidade de um carro. Se ele ultrapassar 80Km/
 Exercício 30, o programa lê um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
 
 Exercício 31, o programa pergunte a distância de uma viagem em Km. Calcula o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas.
+
+Atualização (dia) 03/10/2022 Segunda-feira às 18:07
+
+Exercício 32, o programa que lê um ano qualquer e mostre se ele é bissexto.
+
+Exercício 33, o programa que lê três números e mostre qual é o maior e qual é o menor.
